@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml_ffmpeg)
+ (name main)
+ (libraries unix))
